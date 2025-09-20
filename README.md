@@ -2,7 +2,7 @@
 ## Language Detection App 📝🌐
 
 ### Description:
-This is a learning project for language detection. The app can detect the language of any text input by the user and show which language it belongs to.
+This is a learning project (Simple Project for Practice) for language detection. The app can detect the language of any text input by the user and show which language it belongs to.
 
 ### Features:
 
