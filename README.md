@@ -36,4 +36,4 @@ Model predicts the language.
 
 Prediction is returned to user.
 
-## Clike This Link : - URL https://language-detection-app-6iku.onrender.com 
+
